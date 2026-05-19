@@ -1,83 +1,80 @@
 <div align="center">
 
-# Miguel Ferreira de Araujo
-
-**Desenvolvedor Backend | Professor | Sistemas Web, Segurança e Automação**
-
-Construo soluções úteis, documentadas e pensadas para pessoas reais. Tenho interesse especial em backend, plataformas institucionais, automação, inteligência artificial aplicada, segurança de dados e educação tecnológica.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:174A9C,100:0A66C2&text=Miguel%20Ferreira%20de%20Araujo&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=Backend%20%7C%20Next.js%20%7C%20Seguran%C3%A7a%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Educa%C3%A7%C3%A3o&descAlignY=58&descSize=16" alt="Miguel Ferreira de Araujo" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20de%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo)
 [![GitHub](https://img.shields.io/badge/GitHub-MiguelFAraujo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelFAraujo)
-[![Portfolio](https://img.shields.io/badge/Projeto%20em%20destaque-AMAJGI-174A9C?style=for-the-badge&logo=vercel&logoColor=white)](https://amajgi.vercel.app/)
+[![AMAJGI](https://img.shields.io/badge/Case%20em%20produ%C3%A7%C3%A3o-AMAJGI-174A9C?style=for-the-badge&logo=vercel&logoColor=white)](https://amajgi.vercel.app/)
+
+**Desenvolvedor Backend, professor e construtor de sistemas web com foco em utilidade real, documentação e segurança.**
 
 </div>
 
 ---
 
-## Sobre Mim
+## O Que Eu Construo
 
-Sou desenvolvedor com base forte em Python, backend, ensino técnico e construção de sistemas práticos. Minha trajetória mistura sala de aula, engenharia de software, automação e projetos de impacto comunitário.
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Plataformas Web</h3>
+      <p>Aplicações com autenticação, painel administrativo, banco de dados, permissões, deploy e experiência responsiva.</p>
+    </td>
+    <td width="33%">
+      <h3>Segurança e LGPD</h3>
+      <p>Sessões seguras, controle de acesso, logs, criptografia, headers HTTP, validação e documentação de risco.</p>
+    </td>
+    <td width="33%">
+      <h3>Educação e Automação</h3>
+      <p>Conteúdo técnico, backend com Python, automações, IA aplicada e projetos maker com foco didático.</p>
+    </td>
+  </tr>
+</table>
 
-Meu foco atual está em criar aplicações completas com:
-
-- autenticação segura;
-- painéis administrativos;
-- bancos relacionais;
-- documentação profissional;
-- boas práticas de LGPD e segurança;
-- deploy em produção;
-- interfaces simples para usuários não técnicos.
-
-Gosto de projetos que saem do rascunho e viram ferramenta de verdade.
+Sou movido por projetos que saem do rascunho e viram ferramenta de verdade. Gosto de transformar ideias confusas em sistemas utilizáveis, com uma base técnica que possa ser explicada, testada e mantida.
 
 ---
 
-## Projeto Em Destaque
+## Case Em Produção: AMAJGI
 
-### AMAJGI - Portal Institucional e Painel Administrativo
+<div align="center">
 
-Plataforma criada para a Associação de Moradores e Amigos de Jardim Guaratiba e Jardim Interlagos, em Maricá/RJ.
+### Portal Institucional e Painel Administrativo para Associação de Moradores
 
-[Acessar o site publicado](https://amajgi.vercel.app/)
+[![Acessar site](https://img.shields.io/badge/Acessar%20site%20publicado-amajgi.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://amajgi.vercel.app/)
+
+</div>
+
+Plataforma criada para a **Associação de Moradores e Amigos de Jardim Guaratiba e Jardim Interlagos**, em Maricá/RJ.
 
 O projeto evoluiu de um site institucional para uma plataforma com cadastro comunitário, painel administrativo, hierarquia de acesso, publicações, exportação XLSX, autenticação, documentação e camadas de segurança voltadas à LGPD.
 
-**Principais entregas:**
+### Entregas Relevantes
 
-- Portal público responsivo com avisos, eventos, campanhas, agradecimentos e reclamações.
-- Cadastro de moradores, comerciantes e vínculos comunitários.
-- Painel administrativo com níveis de permissão.
+- Portal público com avisos, eventos, campanhas, agradecimentos e reclamações.
+- Cadastro comunitário para moradores, comerciantes e vínculos locais.
+- Painel administrativo com hierarquia e controle de permissões.
 - Login Google com Supabase Auth.
 - Sessão administrativa com cookie `HttpOnly`, `Secure` e `SameSite=Lax`.
 - Criptografia AES-256-GCM para novos dados sensíveis.
 - Headers HTTP de segurança e política CSP.
 - Exportação administrativa em XLSX.
-- Documentos de auditoria, segurança e roadmap técnico.
+- Documentação de auditoria, segurança e roadmap técnico.
 
-**Stack usada:**
+### Stack Do Case
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20%2B%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel)
-
----
-
-## Áreas de Atuação
-
-| Área | O que eu faço |
-| --- | --- |
-| Backend | APIs, autenticação, regras de negócio, banco de dados e integrações |
-| Frontend | Interfaces responsivas com React, Next.js e TailwindCSS |
-| Segurança | Sessões seguras, RBAC, headers, validação, logs e LGPD |
-| Automação | Scripts, fluxos repetitivos, ferramentas internas e IA aplicada |
-| Ensino | Explicação técnica, documentação, aulas e orientação de projetos |
-| Maker | Arduino, Raspberry Pi, robótica educacional e prototipagem |
+![LGPD](https://img.shields.io/badge/LGPD-Seguran%C3%A7a%20e%20Auditoria-174A9C?style=flat-square)
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ### Backend e Dados
 
@@ -103,63 +100,60 @@ O projeto evoluiu de um site institucional para uma plataforma com cadastro comu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP-Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OpenAI](https://img.shields.io/badge/IA%20Aplicada-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### IA, Educação e Maker
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+</div>
 
 ---
 
-## Como Eu Trabalho
+## Meu Fluxo De Trabalho
 
 ```mermaid
 flowchart LR
-  Problema["Problema real"] --> Descoberta["Entendimento do contexto"]
-  Descoberta --> Arquitetura["Arquitetura simples e escalável"]
-  Arquitetura --> Implementacao["Implementação"]
-  Implementacao --> Testes["Testes e auditoria"]
-  Testes --> Documentacao["Documentação clara"]
-  Documentacao --> Entrega["Entrega utilizável"]
+  A["Problema real"] --> B["Entendimento do contexto"]
+  B --> C["Arquitetura simples"]
+  C --> D["Implementação"]
+  D --> E["Teste e auditoria"]
+  E --> F["Documentação"]
+  F --> G["Entrega utilizável"]
 ```
 
-Valorizo código que pode ser explicado, mantido e apresentado. Um projeto bem feito precisa funcionar, mas também precisa deixar claro por que cada decisão técnica existe.
+Meu objetivo é entregar sistemas que funcionem, mas também possam ser apresentados com clareza. Código bom precisa ter contexto, decisão técnica, teste e documentação.
 
 ---
 
 ## Vitrine Técnica
 
 <details>
-<summary><strong>Segurança e LGPD</strong></summary>
+<summary><strong>Segurança, LGPD e auditoria</strong></summary>
 
-Tenho estudado e aplicado práticas como:
+Práticas que estudo e aplico em projetos:
 
 - autenticação com provedores externos;
 - cookies `HttpOnly`;
-- controle de acesso por hierarquia;
+- RBAC e menor privilégio;
 - criptografia de dados sensíveis;
 - validação de entrada;
 - prevenção de vazamento de secrets;
 - cabeçalhos HTTP de segurança;
-- auditoria de ações administrativas;
+- logs de ações administrativas;
 - documentação de risco e plano de evolução.
 
 </details>
 
 <details>
-<summary><strong>Educação e Comunicação Técnica</strong></summary>
+<summary><strong>Ensino e comunicação técnica</strong></summary>
 
-Além de desenvolver, também gosto de ensinar. Tenho experiência explicando backend, Python, lógica, banco de dados, automação e projetos maker para públicos em diferentes níveis.
+Também atuo como professor e comunicador técnico. Tenho experiência explicando backend, Python, lógica, banco de dados, automação e projetos maker para pessoas em diferentes níveis.
 
-Um bom sistema não termina no código. Ele precisa ser compreensível por quem opera, apresenta e mantém.
+Para mim, um sistema bem construído também precisa ser compreensível por quem opera, apresenta e mantém.
 
 </details>
 
 <details>
-<summary><strong>Automação e IA Aplicada</strong></summary>
+<summary><strong>Automação e IA aplicada</strong></summary>
 
-Uso IA e automação como ferramentas para acelerar pesquisa, documentação, testes, prototipação e criação de fluxos internos. O objetivo é reduzir trabalho repetitivo e aumentar a qualidade da entrega.
+Uso IA e automação para acelerar pesquisa, documentação, testes, prototipação e criação de fluxos internos. A ideia não é substituir pensamento técnico, mas aumentar velocidade e qualidade de entrega.
 
 </details>
 
@@ -169,9 +163,8 @@ Uso IA e automação como ferramentas para acelerar pesquisa, documentação, te
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelFAraujo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFAraujo&layout=compact&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelFAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFAraujo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -179,14 +172,10 @@ Uso IA e automação como ferramentas para acelerar pesquisa, documentação, te
 
 ## Contato
 
-Para projetos, parcerias, conversas técnicas ou oportunidades:
-
-[LinkedIn](https://www.linkedin.com/in/miguel-de-araujo)
-
----
-
 <div align="center">
 
-**Tecnologia boa é a que resolve problema real, respeita as pessoas e pode ser mantida com responsabilidade.**
+[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo)
+
+**Tecnologia boa resolve problema real, respeita as pessoas e pode ser mantida com responsabilidade.**
 
 </div>
