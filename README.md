@@ -38,7 +38,7 @@ Gosto de projetos que saem do rascunho e viram ferramenta de verdade.
 
 Plataforma criada para a Associação de Moradores e Amigos de Jardim Guaratiba e Jardim Interlagos, em Maricá/RJ.
 
-[Acessar o site](https://amajgi.vercel.app/) · [Repositório](https://github.com/MiguelFAraujo/AMAJGI)
+[Acessar o site publicado](https://amajgi.vercel.app/)
 
 O projeto evoluiu de um site institucional para uma plataforma com cadastro comunitário, painel administrativo, hierarquia de acesso, publicações, exportação XLSX, autenticação, documentação e camadas de segurança voltadas à LGPD.
 
