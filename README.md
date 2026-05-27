@@ -8,48 +8,48 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20de%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo)
 [![GitHub](https://img.shields.io/badge/GitHub-MiguelFAraujo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelFAraujo)
 
-**Inteligencia do Topo -- sites premium, automacoes e infraestrutura para negocios locais.**
-**Backend, maker, infra autonomia e educacao.**
+**Inteligência do Topo — sites premium, automações e infraestrutura para negócios locais.**
+**Backend, maker, infra autônoma e educação.**
 
 </div>
 
-> *"Codigo bom resolve problema real, roda em producao, tem documentacao, backup, manutencao e pode ser explicado para quem vai usar."*
+> *"Código bom resolve problema real, roda em produção, tem documentação, backup, manutenção e pode ser explicado para quem vai usar."*
 
 ---
 
-## Projeto Principal: Inteligencia do Topo
+## Projeto Principal: Inteligência do Topo
 
-A Inteligencia do Topo e meu laboratorio/produto para criacao de sites premium para negocios locais. A proposta e comecar por uma estrutura clara e evoluir com personalizacao, publicacao, automacoes e manutencao.
+A Inteligência do Topo é meu laboratório/produto para criação de sites premium para negócios locais. A proposta é começar por uma estrutura clara e evoluir com personalização, publicação, automações e manutenção.
 
 **Formatos:**
-- Landing de Conversao
+- Landing de Conversão
 - One Page Premium
 - Website Completo
 
 **Inclui:**
-- Formulario e WhatsApp
+- Formulário e WhatsApp
 - Briefing guiado consultivo
-- Paineis admin demonstrativos
-- Manutencao opcional (R$300/mes)
-- Automacoes com n8n/Telegram
+- Painéis admin demonstrativos
+- Manutenção opcional (R$300/mês)
+- Automações com n8n/Telegram
 - Deploy e monitoramento
-- Evolucao mensal continua
+- Evolução mensal contínua
 
 **Links:**
 - Site oficial: [https://inteligenciadotopo.com.br/](https://inteligenciadotopo.com.br/)
 - Briefing: [https://inteligenciadotopo.com.br/contato/](https://inteligenciadotopo.com.br/contato/)
 - Exemplo One Page premium: [https://restaurante.inteligenciadotopo.com.br/](https://restaurante.inteligenciadotopo.com.br/)
-- Repositorio do site: [github.com/MiguelFAraujo/inteligenciadotopo](https://github.com/MiguelFAraujo/inteligenciadotopo)
+- Repositório do site: [github.com/MiguelFAraujo/inteligenciadotopo](https://github.com/MiguelFAraujo/inteligenciadotopo)
 
 ---
 
 ## Quem Eu Sou
 
-Nao sou so programador. Sou alguem que resolve problemas com codigo, hardware e infraestrutura -- e documenta cada passo.
+Não sou só programador. Sou alguém que resolve problemas com código, hardware e infraestrutura — e documenta cada passo.
 
-Comecei com Arduino nos componentes mais crus (AVR puro), passei por ESP, Raspberry Pi, Orange Pi, Banana Pi, Mango Pi, e montei um ecossistema inteiro de servidores self-hosted com Docker, Gitea, Nextcloud, AdGuard, Jellyfin e automacoes que rodam 24/7.
+Comecei com Arduino nos componentes mais crus (AVR puro), passei por ESP, Raspberry Pi, Orange Pi, Banana Pi, Mango Pi, e montei um ecossistema inteiro de servidores self-hosted com Docker, Gitea, Nextcloud, AdGuard, Jellyfin e automações que rodam 24/7.
 
-Tambem sou professor: ensino backend, Python, Django, logica, eletronica e automacao para pessoas reais -- em sala de aula e nos materiais que publico.
+Também sou professor: ensino backend, Python, Django, lógica, eletrônica e automação para pessoas reais — em sala de aula e nos materiais que publico.
 
 ---
 
@@ -58,25 +58,25 @@ Tambem sou professor: ensino backend, Python, Django, logica, eletronica e autom
 <table>
   <tr>
     <td width="50%">
-      <h3>Inteligencia do Topo</h3>
-      <p><em>Sites premium para negocios locais</em></p>
-      <p>Landing de Conversao, One Page Premium e Website Completo com formulario, WhatsApp, painel admin demonstrativo e manutencao. Briefing guiado para levantar cada projeto com diagnostico real.</p>
+      <h3>Inteligência do Topo</h3>
+      <p><em>Sites premium para negócios locais</em></p>
+      <p>Landing de Conversão, One Page Premium e Website Completo com formulário, WhatsApp, painel admin demonstrativo e manutenção. Briefing guiado para levantar cada projeto com diagnóstico real.</p>
       <p><strong>Stack:</strong> HTML/CSS/JS · Python (futuro) · Vercel · Docker</p>
-      <p><a href="https://inteligenciadotopo.com.br/">Site oficial</a> · <a href="https://github.com/MiguelFAraujo/inteligenciadotopo">Repositorio</a></p>
+      <p><a href="https://inteligenciadotopo.com.br/">Site oficial</a> · <a href="https://github.com/MiguelFAraujo/inteligenciadotopo">Repositório</a></p>
     </td>
     <td width="50%">
       <h3>Arduino na Veia</h3>
-      <p><em>A referencia do maker brasileiro</em></p>
-      <p>Site completo com tutoriais, componentes, projetos, glossario e ferramentas para Arduino e microcontroladores. De AVR puro a ESP32, Raspberry Pi Pico, STM32, PIC.</p>
+      <p><em>A referência do maker brasileiro</em></p>
+      <p>Site completo com tutoriais, componentes, projetos, glossário e ferramentas para Arduino e microcontroladores. De AVR puro a ESP32, Raspberry Pi Pico, STM32, PIC.</p>
       <p><strong>Stack:</strong> Go (stdlib) · HTML/CSS · SQLite · Docker</p>
-      <p><a href="https://github.com/MiguelFAraujo/arduino-na-veia">Repositorio</a></p>
+      <p><a href="https://github.com/MiguelFAraujo/arduino-na-veia">Repositório</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>AMAJGI</h3>
-      <p><em>Portal institucional da associacao de moradores</em></p>
-      <p>Plataforma com cadastro comunitario, painel administrativo, RBAC, LGPD, autenticacao Google, exportacao XLSX e documentacao completa de seguranca.</p>
+      <p><em>Portal institucional da associação de moradores</em></p>
+      <p>Plataforma com cadastro comunitário, painel administrativo, RBAC, LGPD, autenticação Google, exportação XLSX e documentação completa de segurança.</p>
       <p><strong>Stack:</strong> Next.js · React · Supabase · Vercel</p>
       <p><a href="https://amajgi.vercel.app/">Acessar site</a></p>
     </td>
@@ -84,26 +84,26 @@ Tambem sou professor: ensino backend, Python, Django, logica, eletronica e autom
       <h3>Sentinela</h3>
       <p>Sistema EDR caseiro usando Nmap, Python e Ollama. Monitoramento de rede local com deteccao baseada em IA.</p>
       <p><strong>Stack:</strong> Python · Ollama · Nmap · Docker</p>
-      <p><a href="https://github.com/MiguelFAraujo/Sentinela">Repositorio</a></p>
+      <p><a href="https://github.com/MiguelFAraujo/Sentinela">Repositório</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>RoboTutor</h3>
-      <p>Robo educacional open-source com Arduino, sensor ultrassonico e LEDs. Projeto didatico para ensino de eletronica e programacao.</p>
-      <p><strong>Stack:</strong> Arduino · C++ · Eletronica</p>
-      <p><a href="https://github.com/MiguelFAraujo/RoboTutor">Repositorio</a></p>
+      <p>Robô educacional open-source com Arduino, sensor ultrassônico e LEDs. Projeto didático para ensino de eletrônica e programação.</p>
+      <p><strong>Stack:</strong> Arduino · C++ · Eletrônica</p>
+      <p><a href="https://github.com/MiguelFAraujo/RoboTutor">Repositório</a></p>
     </td>
     <td width="50%">
       <h3>GreenOpsMonitor</h3>
-      <p>Monitoramento local de hardware com MCP e IA acessivel. Sensor DHT22, consumo, temperatura e alertas inteligentes.</p>
+      <p>Monitoramento local de hardware com MCP e IA acessível. Sensor DHT22, consumo, temperatura e alertas inteligentes.</p>
       <p><strong>Stack:</strong> Python · MCP · IA Local (Ollama)</p>
-      <p><a href="https://github.com/MiguelFAraujo/GreenOpsMonitor">Repositorio</a></p>
+      <p><a href="https://github.com/MiguelFAraujo/GreenOpsMonitor">Repositório</a></p>
     </td>
   </tr>
 </table>
 
-> Nota: Alguns projetos estao privados ou em maturacao. Serao abertos quando estiverem solidos.
+> Nota: Alguns projetos estão privados ou em maturação. Serão abertos quando estiverem sólidos.
 
 ---
 
@@ -115,26 +115,26 @@ Cluster caseiro com containers Docker rodando 24/7 em Raspberry Pi 4 + Orange Pi
 <summary><strong>Ver detalhes da infraestrutura</strong></summary>
 
 ### Raspberry Pi 4 (8GB) -- Orquestrador
-| Servico | Funcao |
+| Serviço | Função |
 |---------|--------|
 | Nextcloud | Nuvem pessoal |
-| AdGuard Home | DNS + bloqueio de anuncios |
-| Jellyfin | Streaming multimidia |
+| AdGuard Home | DNS + bloqueio de anúncios |
+| Jellyfin | Streaming multimídia |
 | Gitea | Git self-hosted |
 | Duplicati | Backup automatizado |
 | Calibre | Biblioteca de eBooks |
 
 ### Orange Pi Zero 2W -- Executor
 - IA Local: Ollama + modelos leves
-- Agente de desenvolvimento autonomo
+- Agente de desenvolvimento autônomo
 - NFS Server: armazenamento compartilhado
-- Automacoes e processamento
+- Automações e processamento
 
 ### Rede
 - Tailscale: VPN mesh entre dispositivos
 - Acesso remoto seguro sem portas expostas
 - Gitea com mirror para GitHub
-- Backup automatizado com rotacao
+- Backup automatizado com rotação
 - Monitoramento com alertas Telegram
 
 </details>
@@ -143,24 +143,24 @@ Cluster caseiro com containers Docker rodando 24/7 em Raspberry Pi 4 + Orange Pi
 
 ## Hardware e Maker
 
-Trabalho com eletronica no nivel dos componentes -- AVR puro, sensores, servomotores, modulos, displays. Cada projeto e montado, testado e documentado do zero.
+Trabalho com eletrônica no nível dos componentes — AVR puro, sensores, servomotores, módulos, displays. Cada projeto é montado, testado e documentado do zero.
 
 <details>
 <summary><strong>Placas e microcontroladores que uso</strong></summary>
 
-| Familia | Modelos |
+| Família | Modelos |
 |---------|---------|
 | **Arduino** | Uno, Nano, Mega, Pro Mini, ATtiny85 |
 | **ESP** | ESP32, ESP8266, ESP32-CAM |
 | **Raspberry Pi** | Pi 4 (8GB), Pi Pico, Pi Zero 2W |
 | **Orange Pi** | Zero 2W (cluster worker) |
-| **Banana Pi** | Testes e prototipacao |
+| **Banana Pi** | Testes e prototipação |
 | **STM32** | Blue Pill, Black Pill |
 | **PIC** | Microchip PIC16F, PIC18F |
 
 </details>
 
-Componentes que domino: sensores (ultrassonico HC-SR04, PIR, DHT22, LM35), servomotores SG90/MG995, motores DC + ponte H, modulos Rele, display LCD 16x2, matriz de LEDs, Bluetooth HC-05, WiFi ESP, RF 433MHz.
+Componentes que domino: sensores (ultrassônico HC-SR04, PIR, DHT22, LM35), servomotores SG90/MG995, motores DC + ponte H, módulos Relé, display LCD 16x2, matriz de LEDs, Bluetooth HC-05, WiFi ESP, RF 433MHz.
 
 ---
 
@@ -196,7 +196,7 @@ Componentes que domino: sensores (ultrassonico HC-SR04, PIR, DHT22, LM35), servo
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white)
 
-### IA e Automacao
+### IA e Automação
 
 ![Ollama](https://img.shields.io/badge/Ollama-IA%20Local-412991?style=for-the-badge&logo=ollama&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Llama-F59E0B?style=for-the-badge)
@@ -211,22 +211,22 @@ Componentes que domino: sensores (ultrassonico HC-SR04, PIR, DHT22, LM35), servo
 
 ```
 Problema real -> Entendimento do contexto -> Arquitetura simples
--> Implementacao -> Teste e auditoria -> Documentacao
--> Entrega utilizavel -> Open Source
+-> Implementação -> Teste e auditoria -> Documentação
+-> Entrega utilizável -> Open Source
 ```
 
-Codigo bom precisa de contexto, decisao tecnica, teste, documentacao -- e de preferencia ser aberto para que outros aprendam e contribuam.
+Código bom precisa de contexto, decisão técnica, teste, documentação — e de preferência ser aberto para que outros aprendam e contribuam.
 
 ---
 
 ## Filosofia
 
-Tenho um compromisso real com codigo aberto. Ele me trouxe ate onde estou. Meus projetos sao todos open-source (alguns ainda privados enquanto amadurecem, mas com intencao de abrir).
+Tenho um compromisso real com código aberto. Ele me trouxe até onde estou. Meus projetos são todos open-source (alguns ainda privados enquanto amadurecem, mas com intenção de abrir).
 
-Uso Gitea como Git self-hosted para desenvolvimento interno, com mirror automatico para GitHub. Tudo que construo passa por:
+Uso Gitea como Git self-hosted para desenvolvimento interno, com mirror automático para GitHub. Tudo que construo passa por:
 
-- Seguranca desde o inicio (LGPD, RBAC, criptografia, headers HTTP)
-- Documentacao como parte do codigo
+- Segurança desde o início (LGPD, RBAC, criptografia, headers HTTP)
+- Documentação como parte do código
 - Testes e auditoria
 - Backup automatizado
 
@@ -240,6 +240,6 @@ Uso Gitea como Git self-hosted para desenvolvimento interno, com mirror automati
 [![Briefing](https://img.shields.io/badge/Solicitar%20Briefing-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inteligenciadotopo.com.br/contato/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo)
 
-**Codigo aberto me trouxe ate aqui. Tudo que faco e aberto.**
+**Código aberto me trouxe até aqui. Tudo que faço é aberto.**
 
 </div>
