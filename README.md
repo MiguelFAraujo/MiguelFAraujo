@@ -57,11 +57,15 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelFAraujo/MiguelFAraujo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelFAraujo/MiguelFAraujo/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation — contribuicoes engolindo o grid" src="https://raw.githubusercontent.com/MiguelFAraujo/MiguelFAraujo/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<details>
+  <summary><b>🐍 Ver cobrinha de contribuições (requer GitHub Action autorizada)</b></summary>
+  <br/>
+  <p align="center">
+    <i>A cobrinha aparece quando o dono do repositório autorizar a GitHub Action com escopo <code>workflow</code>.</i>
+    <br/><br/>
+    <img alt="Snake placeholder" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=2,12,24&text=%F0%9F%90%8D+Snake+em+breve&fontColor=ffffff&fontSize=20" width="100%"/>
+  </p>
+</details>
 
 ---
 
