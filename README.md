@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,12,24&text=Miguel%20Ferreira%20de%20Araujo&fontColor=ffffff&fontSize=36&fontAlignY=30&desc=Intelig%C3%AAncia%20do%20Topo%20%E2%80%A2%20Sites%20Premium%20%E2%80%A2%20Automa%C3%A7%C3%B5es%20%E2%80%A2%20Infra&descAlignY=54&descSize=16&animation=twinkling" width="100%" alt="Miguel Ferreira de Araujo"/>
 
+  <a href="https://miguelfaraujo.github.io/portfolio">
+    <img src="https://img.shields.io/badge/%F0%9F%96%BC%20Vitrine%20do%20Lab-f472b6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0e"/>
+  </a>
   <a href="https://inteligenciadotopo.com.br/">
     <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20do%20Topo-Site%20Oficial-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
   </a>
