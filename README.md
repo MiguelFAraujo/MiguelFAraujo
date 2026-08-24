@@ -2,7 +2,7 @@
 
 **Engenheiro de Software | Professor Backend (Python/Django) | IA Generativa & Maker**
 
-Homelab: Orange Pi 5 (RK3588, 8-core ARM64, 16GB RAM) + IDT-Lab stack completo
+Homelab: Daten DQ170UP (Intel Core i5-7600T 2.8GHz, 15GB RAM, 512GB NVMe, 1TB HD, 480GB USB SSD) + IDT-Lab stack completo
 - Ollama local (llama3.2:latest) + n8n + MariaDB/PostgreSQL/ClickHouse + Redis
 - Prometheus/Grafana + Tailscale + Docker/k3s + 10 IDEs JetBrains Educational Pack
 
@@ -52,7 +52,7 @@ CI/CD: GitHub Actions + n8n deploy -> k3s
 ## Metodologia
 
 - **TDD** com red-green-refactor
-- **Benchmarks reais** no hardware do lab (Orange Pi 5)
+- **Benchmarks reais** no hardware do lab (Daten DQ170UP)
 - **AI-assisted development** com Ollama local (code review, SQL generation, analise)
 - **Observabilidade completa** em todos os projetos (Prometheus metrics, Grafana dashboards)
 - **Deploy automatizado** via n8n workflows para k3s no lab
