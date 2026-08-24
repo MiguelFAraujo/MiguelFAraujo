@@ -1,6 +1,6 @@
-# Miguel Araujo
+# Miguel Ferreira de Araujo
 
-**Engenheiro de Software | Professor Backend (Python/Django) | IA Generativa & Maker**
+Engenheiro de Software | Professor Backend (Python/Django) | IA Generativa & Maker
 
 Homelab: Daten DQ170UP (Intel Core i5-7600T 2.8GHz, 15GB RAM, 512GB NVMe, 1TB HD, 480GB USB SSD) + IDT-Lab stack completo
 - Ollama local (llama3.2:latest) + n8n + MariaDB/PostgreSQL/ClickHouse + Redis
@@ -11,7 +11,7 @@ Homelab: Daten DQ170UP (Intel Core i5-7600T 2.8GHz, 15GB RAM, 512GB NVMe, 1TB HD
 ### JetBrains IDE Portfolio (10 IDEs + 4 Extras)
 | IDE | Repo | Stack Principal | Benchmark Lab |
 |-----|------|-----------------|---------------|
-| CLion | [clion-embedded-perf](https://github.com/MiguelFAraujo/clion-embedded-perf) | C++20, ARM/RISC-V, FreeRTOS | 3.2µs interrupt latency |
+| CLion | [clion-embedded-perf](https://github.com/MiguelFAraujo/clion-embedded-perf) | C++20, ARM/RISC-V, FreeRTOS | 3.2us interrupt latency |
 | DataGrip | [datagrip-sql-analytics](https://github.com/MiguelFAraujo/datagrip-sql-analytics) | SQL Multi-dialect, ClickHouse | 42ms OLAP 100M rows |
 | GoLand | [goland-microservices](https://github.com/MiguelFAraujo/goland-microservices) | Go 1.23, gRPC, fuzzing | 142k req/s gRPC |
 | IntelliJ | [intellij-spring-boot](https://github.com/MiguelFAraujo/intellij-spring-boot) | Java 21, Spring Boot 3, GraalVM | 0.07s native startup |
@@ -31,8 +31,8 @@ Homelab: Daten DQ170UP (Intel Core i5-7600T 2.8GHz, 15GB RAM, 512GB NVMe, 1TB HD
 | NASA Data Challenges | [nasa-data-challenges](https://github.com/MiguelFAraujo/nasa-data-challenges) | Multi-linguagem (10 IDEs) | 5 pipelines NASA reais |
 
 ### Projetos Principais (Producao)
-- [omniroute-resilience](https://github.com/MiguelFAraujo/omniroute-resilience) - Monitor resiliencia OmniRoute/OpenAI (4★)
-- [telebot-cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) - Bot Telegram disciplinado (4★)
+- [omniroute-resilience](https://github.com/MiguelFAraujo/omniroute-resilience) - Monitor resiliencia OmniRoute/OpenAI (4 estrelas)
+- [telebot-cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) - Bot Telegram disciplinado (4 estrelas)
 - [inteligencia-do-topo](https://github.com/MiguelFAraujo/inteligencia-do-topo) - Site institucional
 - [lab-blueprint](https://github.com/MiguelFAraujo/lab-blueprint) - Blueprint homelab open-source
 - [arduino-na-veia](https://github.com/MiguelFAraujo/arduino-na-veia) - Referencia maker brasileiro
@@ -51,11 +51,11 @@ CI/CD: GitHub Actions + n8n deploy -> k3s
 
 ## Metodologia
 
-- **TDD** com red-green-refactor
-- **Benchmarks reais** no hardware do lab (Daten DQ170UP)
-- **AI-assisted development** com Ollama local (code review, SQL generation, analise)
-- **Observabilidade completa** em todos os projetos (Prometheus metrics, Grafana dashboards)
-- **Deploy automatizado** via n8n workflows para k3s no lab
+- TDD com red-green-refactor
+- Benchmarks reais no hardware do lab (Daten DQ170UP)
+- AI-assisted development com Ollama local (code review, SQL generation, analise)
+- Observabilidade completa em todos os projetos (Prometheus metrics, Grafana dashboards)
+- Deploy automatizado via n8n workflows para k3s no lab
 
 ## Contato
 
@@ -65,4 +65,4 @@ CI/CD: GitHub Actions + n8n deploy -> k3s
 
 ---
 
-*Desenvolvido no IDT-Lab com Educational Pack JetBrains BD24G146N7 (valido ate 2027-08-23)*
+Desenvolvido no IDT-Lab com Educational Pack JetBrains BD24G146N7 (valido ate 2027-08-23)
