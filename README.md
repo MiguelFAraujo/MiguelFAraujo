@@ -1,17 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,12,24&text=Miguel%20Ferreira%20de%20Araujo&fontColor=ffffff&fontSize=36&fontAlignY=30&desc=Intelig%C3%AAncia%20do%20Topo%20%E2%80%A2%20Sites%20Premium%20%E2%80%A2%20Automa%C3%A7%C3%B5es%20%E2%80%A2%20Infra&descAlignY=54&descSize=16&animation=twinkling" width="100%" alt="Miguel Ferreira de Araujo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,12,24&text=Miguel%20Ferreira%20de%20Araujo&fontColor=ffffff&fontSize=36&fontAlignY=30&desc=Senior%20Full-Stack%20%26%20AI%20Systems%20Engineer%20%E2%80%A2%20Distributed%20Architectures%20%E2%80%A2%20Homelab%20Cloud&descAlignY=54&descSize=16&animation=twinkling" width="100%" alt="Miguel Ferreira de Araujo"/>
 
-  <a href="https://miguelfaraujo.github.io/portfolio">
-    <img src="https://img.shields.io/badge/%F0%9F%96%BC%20Vitrine%20do%20Lab-f472b6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0e"/>
-  </a>
-  <a href="https://inteligenciadotopo.com.br/">
-    <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20do%20Topo-Site%20Oficial-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
-  </a>
-  <a href="https://inteligenciadotopo.com.br/contato/">
-    <img src="https://img.shields.io/badge/Solicitar%20Briefing-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0e"/>
-  </a>
   <a href="https://www.linkedin.com/in/miguel-de-araujo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0e"/>
+  </a>
+  <a href="https://miguelfaraujo.github.io/portfolio">
+    <img src="https://img.shields.io/badge/%F0%9F%96%BC%20Portfolio-f472b6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0a0e"/>
+  </a>
+  <a href="https://inteligenciadotopo.com.br/">
+    <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20do%20Topo-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
   </a>
   <a href="mailto:miguel@inteligenciadotopo.com.br">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0e"/>
@@ -19,14 +16,28 @@
 
   <br/><br/>
 
-  <em>Código bom resolve problema real, roda em produção, tem documentação, backup, manutenção e pode ser explicado para quem vai usar.</em>
+  <em>"Great software solves real problems, runs in production with 99.9% reliability, has automated backups, and scales gracefully."</em>
 
   <br/><br/>
 </div>
 
 ---
 
-## 📊 Vitrine de Produtividade
+## 👨‍💻 About Me / Sobre Mim
+
+<div align="left">
+
+**🇺🇸 English Summary:**  
+Senior Software & AI Systems Engineer passionate about high-throughput distributed backends, resilient multi-agent AI ecosystems (MCP / LLM orchestration), and modern full-stack web platforms. I design autonomous cloud & edge architectures that run 24/7 with self-healing watchdogs, cognitive memory indexing, and sub-100ms response times.
+
+**🇧🇷 Resumo em Português:**  
+Engenheiro de Software Full-Stack & Sistemas de IA focado em arquiteturas distribuídas, microsserviços resilientes em Go/Python, interfaces modernas com Next.js/TypeScript e ecossistemas autônomos de agentes com IA local e em nuvem.
+
+</div>
+
+---
+
+## 📊 Live Activity & Productivity
 
 <div align="center">
   <picture>
@@ -48,245 +59,104 @@
   </picture>
 </div>
 
-<br/>
-
-<div align="center">
-
-🏆 **Troféus de perfil**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MiguelFAraujo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<details>
-  <summary><b>🐍 Ver cobrinha de contribuições (requer GitHub Action autorizada)</b></summary>
-  <br/>
-  <p align="center">
-    <i>A cobrinha aparece quando o dono do repositório autorizar a GitHub Action com escopo <code>workflow</code>.</i>
-    <br/><br/>
-    <img alt="Snake placeholder" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=2,12,24&text=%F0%9F%90%8D+Snake+em+breve&fontColor=ffffff&fontSize=20" width="100%"/>
-  </p>
-</details>
-
 ---
 
-## 🚀 Projeto Principal: Inteligência do Topo
-
-> **Sites premium para negócios locais** — Landing de Conversão, One Page Premium e Website Completo com briefing consultivo, formulário, WhatsApp, painel admin demonstrativo e manutenção opcional.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>📄 Landing</b></td>
-      <td align="center"><b>📱 One Page</b></td>
-      <td align="center"><b>🌐 Website</b></td>
-      <td align="center"><b>⚡ Automações</b></td>
-      <td align="center"><b>🛡️ Manutenção</b></td>
-    </tr>
-    <tr>
-      <td>Conversão</td>
-      <td>Premium</td>
-      <td>Completo</td>
-      <td>n8n + Telegram</td>
-      <td>R$300/mês</td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://inteligenciadotopo.com.br/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Site%20Oficial-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
-  </a>
-  <a href="https://restaurante.inteligenciadotopo.com.br/">
-    <img src="https://img.shields.io/badge/%F0%9F%8D%BD%20Exemplo%20One%20Page-Restaurante-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0e"/>
-  </a>
-  <a href="https://github.com/MiguelFAraujo/inteligenciadotopo">
-    <img src="https://img.shields.io/badge/%F0%9F%93%81%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0e"/>
-  </a>
-</div>
-
----
-
-## 🧰 Stack & Ferramentas
+## 🛠️ Technical Arsenal / Stack Tecnológica
 
 <div align="center">
 
-### Backend & Linguagens
+### Backend & Distributed Systems
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0e)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0e)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0a0a0e)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0a0a0e)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0e)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0e)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0a0a0e)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a0e)
+![SQLite FTS5](https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0a0a0e)
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0a0e)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0e)
+### Frontend & Modern Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0e)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0e)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0e)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0a0e)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0e)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0a0a0e)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0a0a0e)
 
-### Infraestrutura & DevOps
+### AI Engineering & Autonomous Agents
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6C47FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0e)
+![Gemini SDK](https://img.shields.io/badge/Gemini_AI_Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0e)
+![Ollama](https://img.shields.io/badge/Ollama_Local_LLMs-412991?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0a0e)
+![n8n](https://img.shields.io/badge/n8n_Workflows-FF6D00?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0a0e)
+![OmniRoute](https://img.shields.io/badge/OmniRoute_AI_Gateway-10B981?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0e)
+
+### Cloud, DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0e)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0e)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0a0a0e)
-![Tailscale](https://img.shields.io/badge/Tailscale-24292F?style=for-the-badge&logo=tailscale&logoColor=white&labelColor=0a0a0e)
-![Gitea](https://img.shields.io/badge/Gitea-5E2C8A?style=for-the-badge&logo=gitea&logoColor=white&labelColor=0a0a0e)
-![NFS](https://img.shields.io/badge/NFS-0078D4?style=for-the-badge&logo=files&logoColor=white&labelColor=0a0a0e)
-
-### Hardware & Maker
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0a0a0e)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=0a0a0e)
-![ESP32](https://img.shields.io/badge/ESP32-E7352B?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0a0a0e)
-![AVR](https://img.shields.io/badge/AVR-0E75B6?style=for-the-badge&logo=microchip&logoColor=white&labelColor=0a0a0e)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0a0a0e)
-
-### IA & Automação
-![Ollama](https://img.shields.io/badge/Ollama-412991?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0a0e)
-![Groq](https://img.shields.io/badge/Groq-F59E0B?style=for-the-badge&logo=groq&logoColor=white&labelColor=0a0a0e)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0e)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0a0e)
-![OpenCode](https://img.shields.io/badge/OpenCode-6C47FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0e)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0a0e)
+![Linux Systemd](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0e)
+![Tailscale](https://img.shields.io/badge/Tailscale_Mesh_VPN-444444?style=for-the-badge&logo=tailscale&logoColor=white&labelColor=0a0a0e)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=0a0a0e)
+![Coolify](https://img.shields.io/badge/Coolify_PaaS-8B5CF6?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0e)
 
 </div>
 
 ---
 
-## 📦 Projetos em Destaque
+## 📦 Featured Projects / Projetos em Destaque
 
 <div align="center">
 
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| <a href="https://github.com/MiguelFAraujo/inteligenciadotopo"><b>🧠 Inteligência do Topo</b></a> | Sites premium p/ negócios locais | Next.js · Supabase · Vercel | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/arduino-na-veia"><b>🔧 Arduino na Veia</b></a> | Referência do maker brasileiro | Go · HTML · SQLite · Docker | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/arduino-na-veia-bot"><b>🤖 Arduino Bot</b></a> | Bot Telegram para feedback/sugestões | Go · Telegram API | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/arduino-na-veia-site"><b>🌐 Arduino Site</b></a> | Site estático com tutoriais | Go · HTML · CSS | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/gobot"><b>🤖 GoBot</b></a> | Bot Telegram multifuncional | Go · Telegram API · JSON | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/AMAJGI"><b>🏘️ AMAJGI</b></a> | Portal associação de moradores | Next.js · Supabase · Vercel | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/template-factory-local"><b>🏗️ Template Factory</b></a> | Fábrica de templates reutilizáveis | HTML/CSS/JS · Docker | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/Sentinela"><b>🛡️ Sentinela</b></a> | EDR caseiro com IA local | Python · Ollama · Nmap | 🔵 Parado |
-| <a href="https://github.com/MiguelFAraujo/RoboTutor"><b>🤖 RoboTutor</b></a> | Robô educacional open-source | Arduino · C++ | 🟢 Ativo |
-| <a href="https://github.com/MiguelFAraujo/GreenOpsMonitor"><b>📊 GreenOps</b></a> | Monitoramento hardware verde | Python · MCP · Ollama | 🔵 Parado |
-| <a href="https://github.com/MiguelFAraujo/Sentinela-Overlay"><b>🖥️ Sentinela Overlay</b></a> | Interface gráfica do Sentinela | Python · PyQt · MCP | 🔵 Parado |
-| <a href="https://github.com/MiguelFAraujo/Softex_BackEnd_Python"><b>📚 Softex Python</b></a> | Projetos do curso Softex | Python · Django | 🔵 Parado |
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| <a href="https://github.com/MiguelFAraujo/inteligenciadotopo"><b>🧠 Inteligência do Topo</b></a> | High-conversion web platforms & automation for local enterprises | Next.js 14 · Supabase · Vercel · Tailwind | 🟢 Live |
+| <a href="https://github.com/MiguelFAraujo/omniroute-resilience"><b>⚡ OmniRoute Resilience</b></a> | Zero-dependency health watchdog & multi-LLM routing gateway | Go · Python · REST APIs · Docker | 🟢 Live |
+| <a href="https://github.com/MiguelFAraujo/telebot-cognitive"><b>🤖 Telebot Cognitive</b></a> | Telegram group passive intelligence curator & cognitive pipeline | Python · SQLite FTS5 · Cortex API | 🟢 Live |
+| <a href="https://github.com/MiguelFAraujo/Sentinela"><b>🛡️ Sentinela EDR</b></a> | Self-hosted endpoint detection & response with local AI heuristics | Python · Ollama · Nmap · SQLite | 🟢 Live |
+| <a href="https://github.com/MiguelFAraujo/gobot"><b>🤖 GoBot</b></a> | High-throughput asynchronous Telegram automation bot | Go (Golang) · Telegram Bot API · Systemd | 🟢 Live |
+| <a href="https://github.com/MiguelFAraujo/AMAJGI"><b>🏘️ AMAJGI Portal</b></a> | Community portal with administrative management & auth | Next.js · Supabase · TailwindCSS | 🟢 Live |
 
 </div>
 
 ---
 
-## 🏠 Infraestrutura Self-Hosted
+## 🏠 Distributed Homelab & AI Operations (IDT-Lab)
 
-Cluster caseiro com containers Docker rodando **24/7** em Raspberry Pi 4 + Orange Pi Zero 2W, conectados via NFS e Tailscale.
-
-<div align="center">
+Production-grade 24/7 micro-cloud cluster orchestrating 15+ containerized microservices with autonomous self-healing watchdogs, zero-trust Tailscale mesh networking, and cognitive memory persistence.
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                  🌐 Tailscale VPN                     │
-├──────────────────────┬──────────────────────────────┤
-│   🥧 Raspberry Pi 4   │   🍊 Orange Pi Zero 2W (ARM)│
-│   ────────────────   │   ─────────────────────────  │
-│   📦 11 containers    │   🤖 Ollama + TinyLlama     │
-│   ├─ Nextcloud        │   📁 NFS Server (219GB SSD) │
-│   ├─ AdGuard Home     │   🧠 OpenCode Autônomo      │
-│   ├─ Jellyfin         │   ⚡ Automações locais       │
-│   ├─ Gitea (Git)      │                              │
-│   ├─ Duplicati        │                              │
-│   └─ Calibre          │                              │
-├──────────────────────┴──────────────────────────────┤
-│              🔗 NFS via Tailscale (100 Mbps)          │
-└─────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│               🌐 TAILSCALE SECURE MESH NETWORK (100.x.x.x)              │
+├────────────────────────────────────────────────────────────────────────┤
+│ 🖥️ Core Node (ThinkCentre M93 / Proxmox VE):                           │
+│  ├─ 🚀 Coolify PaaS (:8008)          ├─ 🤖 OmniRoute Gateway (:20128) │
+│  ├─ 🌐 Dashy Dashboard (:8009)        ├─ 🧠 Cortex Cognitive API (:8090)│
+│  ├─ ⚡ n8n Workflows (:5678)          ├─ 🏠 HomeHub MCP Server (:8095)  │
+│  ├─ 📊 Uptime Kuma (:3002)            ├─ 💬 WAHA WhatsApp API (:3003)   │
+│  ├─ 📁 Nextcloud Enterprise (:8081)   ├─ 🔒 Vaultwarden (:8080)         │
+│  └─ 🛡️ SecOps Gate & Autocura v3 (Automated 60s Watchdog Engine)      │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-<details>
-<summary><b>📋 Detalhes dos serviços</b></summary>
-
-<br/>
-
-| Serviço | Função | Acesso |
-|---------|--------|--------|
-| ☁️ **Nextcloud** | Nuvem pessoal | `localhost:8080` |
-| 🛡️ **AdGuard Home** | DNS + bloqueio anúncios | `localhost:3000` |
-| 🎬 **Jellyfin** | Streaming multimídia | `localhost:8096` |
-| 📚 **Gitea** | Git self-hosted (+ mirror GitHub) | `localhost:3000` |
-| 💾 **Duplicati** | Backup automatizado (retenção 7 dias) | `localhost:8200` |
-| 📖 **Calibre** | Biblioteca de eBooks | `localhost:8083` |
-| 🤖 **GoBot** | Telegram Bot multifuncional | `systemd` |
-| 🧠 **Ollama** | IA local (OrangePi) | `192.168.1.5:11434` |
-
-</details>
-
----
-
-## 🔬 Hardware & Maker
-
-Trabalho com eletrônica no nível dos componentes — **AVR puro**, sensores, servomotores, módulos, displays. Cada projeto é montado, testado e documentado do zero.
-
-<details>
-<summary><b>🔩 Placas e microcontroladores que domino</b></summary>
-
-<br/>
-
-| Família | Modelos |
-|---------|---------|
-| **Arduino** | Uno, Nano, Mega, Pro Mini, ATtiny85 |
-| **ESP** | ESP32, ESP8266, ESP32-CAM |
-| **Raspberry Pi** | Pi 4 (8GB), Pi Pico, Pi Zero 2W |
-| **Orange Pi** | Zero 2W |
-| **Banana Pi** | Testes e prototipação |
-| **STM32** | Blue Pill, Black Pill |
-| **PIC** | Microchip PIC16F, PIC18F |
-
-Componentes: Ultrassônico HC-SR04, PIR, DHT22, LM35, Servo SG90/MG995, Ponte H, Relé, LCD 16x2, Matriz LEDs, Bluetooth HC-05, WiFi ESP, RF 433MHz.
-
-</details>
-
----
-
-## 📈 Últimas Atividades
-
-<div align="center">
-
-![Contribution](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FMiguelFAraujo%2FMiguelFAraujo&query=%24.stargazers_count&style=for-the-badge&logo=github&label=Stars&color=fbbf24&labelColor=0a0a0e)
-![Profile Views](https://komarev.com/ghpvc/?username=MiguelFAraujo&color=fbbf24&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es&labelColor=0a0a0e)
-![Followers](https://img.shields.io/github/followers/MiguelFAraujo?style=for-the-badge&logo=github&color=7C3AED&labelColor=0a0a0e&label=Seguidores)
-![Last Updated](https://img.shields.io/github/last-commit/MiguelFAraujo/MiguelFAraujo?style=for-the-badge&logo=github&color=23c8ff&labelColor=0a0a0e&label=%C3%9Altima%20atualiza%C3%A7%C3%A3o)
-
-</div>
-
 ---
 
 <div align="center">
 
-## 📬 Contato
+## 📬 Contact & Opportunities
 
-<a href="https://inteligenciadotopo.com.br/">
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20do%20Topo-Site%20Oficial-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
-</a>
-<a href="https://inteligenciadotopo.com.br/contato/">
-  <img src="https://img.shields.io/badge/Solicitar%20Briefing-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0e"/>
-</a>
+Open for **Senior Full-Stack, Backend (Go/Python), and AI Systems Engineer** remote roles worldwide.
+
 <a href="https://www.linkedin.com/in/miguel-de-araujo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0e"/>
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0e"/>
+</a>
+<a href="https://inteligenciadotopo.com.br/">
+  <img src="https://img.shields.io/badge/Visit-Official%20Website-23c8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0e"/>
 </a>
 <a href="mailto:miguel@inteligenciadotopo.com.br">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0e"/>
+  <img src="https://img.shields.io/badge/Send%20Email-miguel%40inteligenciadotopo.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0e"/>
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,12,24&fontColor=ffffff" width="100%"/>
 
-**Código aberto me trouxe até aqui. Tudo que faço é aberto.**
-
-<a href="https://github.com/MiguelFAraujo">
-  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%20por%20Miguel%20Ferreira%20de%20Araujo-0a0a0e?style=for-the-badge&logo=github&logoColor=fbbf24"/>
-</a>
+**Open source is how we build the future. Everything built with precision.**
 
 </div>
