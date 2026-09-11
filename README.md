@@ -1,83 +1,60 @@
-# Miguel Ferreira de Araujo
+# Miguel Ferreira de Araújo
 
-Senior Software Engineer | Distributed Systems, Backend Architecture & AI Systems Infrastructure
+### Software Engineering student · Backend · AI infrastructure · Open source
 
-Location: Brazil (Available for Full-Time Remote Roles Worldwide)
-Contact: miguel@inteligenciadotopo.com.br | nigelkps1@gmail.com
-LinkedIn: https://www.linkedin.com/in/miguel-de-araujo/
-Website: https://inteligenciadotopo.com.br
+I build practical systems that connect backend engineering, automation and generative AI. My work focuses on resilient services, developer tooling, privacy-first products and self-hosted infrastructure.
 
----
+I am currently studying Software Engineering and teaching backend development with Python/Django. I am open to remote collaboration, internships, freelance projects and engineering opportunities where I can turn complex problems into maintainable software.
 
-## Engineering Profile
+[![Website](https://img.shields.io/badge/Website-inteligenciadotopo.com.br-163b35?style=flat-square)](https://inteligenciadotopo.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20de%20Ara%C3%BAjo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo/)
+[![Email](https://img.shields.io/badge/Email-miguel%40inteligenciadotopo.com.br-c45b3c?style=flat-square)](mailto:miguel@inteligenciadotopo.com.br)
 
-Senior Software Engineer with deep expertise in distributed backend systems, high-concurrency architectures, Linux systems programming, and production AI infrastructure. Experienced in designing resilient 24/7 self-hosted clusters, autonomous agent execution frameworks (Model Context Protocol / MCP), and low-latency APIs in Go, Python, TypeScript, and C++.
+## What I build
 
-Focused on reliability engineering, strict automated testing (TDD / regression suites), observability, and high-throughput microservices.
+- Backend services and APIs with Go, Python and TypeScript
+- Resilient AI gateways, provider fallback and health monitoring
+- Telegram automation with rate limits, approval flows and audit trails
+- Client-side AI applications designed around privacy and BYOK
+- Linux, Docker, systemd and observability for self-hosted environments
+- Teaching material and reproducible labs for backend engineering
 
----
+## Featured work
 
-## Technical Competencies
+| Project | What it demonstrates |
+| --- | --- |
+| [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | Lightweight health monitoring for OpenAI-compatible gateways, model availability, transition alerts and verified self-updates. |
+| [LinkeGringo](https://github.com/MiguelFAraujo/linkegringo) | React/TypeScript client-side application that helps technical professionals improve international LinkedIn profiles using a BYOK model. |
+| [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | Selective and auditable Telegram agent with relevance filters, cooldowns, daily caps, SQLite persistence and optional human approval. |
+| [Antigravity Account Switcher](https://github.com/MiguelFAraujo/antigravity-account-switcher) | Go supervisor for account pools, quota tracking and controlled failover in local development workflows. |
+| [GoLand Microservices](https://github.com/MiguelFAraujo/goland-microservices) | Reference lab for Go services, gRPC, Protobuf, profiling, race detection, fuzzing and observability. |
+| [Inteligência do Topo](https://inteligenciadotopo.com.br) | Editorial technology lab and public knowledge hub for AI, software and practical engineering. |
 
-- Backend & Systems: Go (Golang), Python, TypeScript, Node.js, C++20, Rust, Java, C# (.NET Core)
-- Architecture & Patterns: Distributed Systems, Event-Driven Architecture, gRPC, REST APIs, WebSockets, CQRS, FTS5 Search Indexing
-- Databases & Storage: PostgreSQL, SQLite (WAL / FTS5), ClickHouse, Redis, MariaDB, Supabase
-- Cloud, Infrastructure & DevOps: Linux (Systemd, Cgroups, PSI), Docker, Docker Compose, Kubernetes (k3s), Proxmox VE, Tailscale Mesh VPN, Coolify PaaS, GitHub Actions CI/CD
-- AI Systems & Tooling: Model Context Protocol (MCP), LLM Gateway Routing, RAG Pipelines, Local Inference (Ollama / LFM2), Vector Search, Automated Health Probes
-- Observability & Reliability: Prometheus, Grafana, Uptime Kuma, Netdata, PSI Resource Monitoring, Automated Self-Healing Watchdogs
+## Technical toolbox
 
----
+**Languages:** Go · Python · TypeScript · JavaScript · C/C++ · Java · Rust  \
+**Backend:** REST · gRPC · Protobuf · WebSockets · Django · Node.js  \
+**Data:** PostgreSQL · SQLite/FTS5 · Redis · MariaDB · Supabase  \
+**AI:** OpenAI-compatible APIs · MCP · RAG · Ollama · model routing · local inference  \
+**Platform:** Linux · Docker · systemd · GitHub Actions · Tailscale · Prometheus · Grafana
 
-## Selected Projects & Systems
+## Engineering principles
 
-### LinkeGringo
-Open-source client-side optimization platform for technical candidate profiles targeting international recruiters.
-- Architecture: 100% Client-Side Single Page Application (React 19, TypeScript, Tailwind CSS, Vite).
-- Privacy: Bring Your Own Key (BYOK) architecture; zero server-side storage of user resume data or API credentials.
-- Repository: https://github.com/MiguelFAraujo/linkegringo
+- Prefer small, observable and reversible changes.
+- Measure behavior instead of relying on assumptions.
+- Keep credentials and user data out of the server whenever the product allows it.
+- Make failure modes explicit: timeouts, quotas, retries, fallbacks and human approval.
+- Document decisions so another engineer can reproduce and maintain the system.
 
-### OmniRoute Resilience Gateway
-High-availability multi-provider AI gateway and health watchdog.
-- Architecture: Multi-model failover routing, rate-limit backoff, connection pooling, and automated latency monitoring.
-- Stack: Go, Python, Docker, Redis, REST APIs.
-- Repository: https://github.com/MiguelFAraujo/omniroute-resilience
+## Learning and teaching
 
-### Telebot Cognitive Pipeline
-Real-time operational knowledge curator and semantic indexing engine.
-- Architecture: Ingests technical streams, normalizes payload schemas, deduplicates with SHA-256 digests, and indexes into SQLite FTS5 for sub-10ms retrieval.
-- Stack: Python, SQLite FTS5, Linux Systemd, Docker.
-- Repository: https://github.com/MiguelFAraujo/telebot-cognitive
+I create hands-on material around Python/Django backends, Go services, APIs, Linux operations, AI agents and software architecture. The public work and experiments are collected at [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br).
 
-### IDT-Lab Production Edge Cluster
-24/7 self-hosted micro-cloud running 15+ containerized services across a private Tailscale zero-trust mesh.
-- Features: Automated memory watchdog (PSI/cgroup monitoring), WAL transactional backups, healthcheck-gated supervisor with cooldown logic, and sub-100ms internal RPC latency.
-- Stack: Linux, Docker, Systemd, Prometheus, Grafana, n8n, PostgreSQL.
+## Let’s connect
 
-### Go Microservices Benchmark Suite
-High-throughput microservices reference implementation with automated fuzz testing.
-- Performance: Benchmarked at over 140,000 requests/sec with gRPC and concurrent worker pools.
-- Stack: Go 1.23, gRPC, Protobuf, Docker.
-- Repository: https://github.com/MiguelFAraujo/goland-microservices
+- Website: [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
+- LinkedIn: [linkedin.com/in/miguel-de-araujo](https://www.linkedin.com/in/miguel-de-araujo/)
+- GitHub: [@MiguelFAraujo](https://github.com/MiguelFAraujo)
+- Email: [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
 
----
-
-## Benchmark & Performance Highlights
-
-- Go gRPC Microservices: 142k req/s throughput under synthetic load.
-- ClickHouse OLAP Analytics: 42ms query latency across 100M row dataset.
-- C++ Embedded Interrupt Handling: 3.2 microsecond latency on bare-metal / FreeRTOS test harness.
-- Full-Stack Web Applications: Sub-second Largest Contentful Paint (LCP < 0.9s) with Next.js and optimized caching.
-
----
-
-## Work Preferences
-
-- Role Types: Senior Backend Engineer, Staff / Lead Software Engineer, Systems Engineer, AI Platform / Infrastructure Engineer
-- Work Model: 100% Remote (Worldwide / US / EU / LATAM timezones)
-- Availability: Full-Time / Contract / B2B
-
----
-
-GitHub: https://github.com/MiguelFAraujo
-LinkedIn: https://www.linkedin.com/in/miguel-de-araujo/
-Email: miguel@inteligenciadotopo.com.br
+Português (Brasil) · Remote-friendly · Open to technical collaboration
