@@ -1,60 +1,60 @@
 # Miguel Ferreira de Araújo
 
-### Software Engineering student · Backend · AI infrastructure · Open source
+### Software Engineer · Backend Systems · AI Infrastructure · Homelab & Open Source
 
-I build practical systems that connect backend engineering, automation and generative AI. My work focuses on resilient services, developer tooling, privacy-first products and self-hosted infrastructure.
-
-I am currently studying Software Engineering and teaching backend development with Python/Django. I am open to remote collaboration, internships, freelance projects and engineering opportunities where I can turn complex problems into maintainable software.
+I build resilient backend systems, autonomous agentic workflows, and privacy-first developer tooling. My focus is on robust system architecture, low-latency decision pipelines, Linux daemons, and self-hosted infrastructure.
 
 [![Website](https://img.shields.io/badge/Website-inteligenciadotopo.com.br-163b35?style=flat-square)](https://inteligenciadotopo.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20de%20Ara%C3%BAjo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-de-araujo/)
+[![GitHub](https://img.shields.io/badge/GitHub-MiguelFAraujo-24292e?style=flat-square&logo=github)](https://github.com/MiguelFAraujo)
 [![Email](https://img.shields.io/badge/Email-miguel%40inteligenciadotopo.com.br-c45b3c?style=flat-square)](mailto:miguel@inteligenciadotopo.com.br)
 
-## What I build
+---
 
-- Backend services and APIs with Go, Python and TypeScript
-- Resilient AI gateways, provider fallback and health monitoring
-- Telegram automation with rate limits, approval flows and audit trails
-- Client-side AI applications designed around privacy and BYOK
-- Linux, Docker, systemd and observability for self-hosted environments
-- Teaching material and reproducible labs for backend engineering
+## 🛠️ What I Build
 
-## Featured work
+- **High-Throughput Backend Services:** Scalable, reliable services and APIs built with Go, Python, and TypeScript.
+- **AI Infrastructure & Decision Engines:** AI gateways, multi-provider fallbacks, non-autoregressive "System 1" decision routing, and MCP servers.
+- **Autonomous Agents & Orchestration:** Telegram/WhatsApp bots with rate limits, cognitive filters, audit trails, and human-in-the-loop controls.
+- **Self-Hosted Homelab Infrastructure:** Linux, systemd daemons, Tailscale mesh networking, Docker containers, and Prometheus/Grafana observability.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | Lightweight health monitoring for OpenAI-compatible gateways, model availability, transition alerts and verified self-updates. |
-| [LinkeGringo](https://github.com/MiguelFAraujo/linkegringo) | React/TypeScript client-side application that helps technical professionals improve international LinkedIn profiles using a BYOK model. |
-| [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | Selective and auditable Telegram agent with relevance filters, cooldowns, daily caps, SQLite persistence and optional human approval. |
-| [Antigravity Account Switcher](https://github.com/MiguelFAraujo/antigravity-account-switcher) | Go supervisor for account pools, quota tracking and controlled failover in local development workflows. |
-| [GoLand Microservices](https://github.com/MiguelFAraujo/goland-microservices) | Reference lab for Go services, gRPC, Protobuf, profiling, race detection, fuzzing and observability. |
-| [Inteligência do Topo](https://inteligenciadotopo.com.br) | Editorial technology lab and public knowledge hub for AI, software and practical engineering. |
+---
 
-## Technical toolbox
+## 🚀 Featured Open Source Projects
 
-**Languages:** Go · Python · TypeScript · JavaScript · C/C++ · Java · Rust  \
-**Backend:** REST · gRPC · Protobuf · WebSockets · Django · Node.js  \
-**Data:** PostgreSQL · SQLite/FTS5 · Redis · MariaDB · Supabase  \
-**AI:** OpenAI-compatible APIs · MCP · RAG · Ollama · model routing · local inference  \
-**Platform:** Linux · Docker · systemd · GitHub Actions · Tailscale · Prometheus · Grafana
+| Project | Description | Stack |
+|---|---|---|
+| [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | Zero-dependency health monitor for OpenAI-compatible model gateways with outage detection and automated alerting. | Go · Python · REST |
+| [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | Selective, rate-limited, and auditable Telegram agent with SQLite FTS5 persistence and model routing. | Go · SQLite · Telegram API |
+| [Antigravity Account Switcher](https://github.com/MiguelFAraujo/antigravity-account-switcher) | Multi-account pool supervisor, quota tracking, and automatic HTTP 429 failover for developer agents. | Go · WebSockets · HTTP |
+| [LabPulse Widget](https://github.com/MiguelFAraujo/idt-kotlin-widget) | Autonomous self-hosted service monitor featuring animated dashboards, consolidated alerting, and desktop widget. | Kotlin · Compose · System APIs |
+| [Lab Blueprint](https://github.com/MiguelFAraujo/lab-blueprint) | Open-source homelab reference architecture: Docker orchestration, Tailscale mesh, local AI inference, and autonomous daemons. | Linux · Docker · Systemd |
+| [Inteligência do Topo v2](https://github.com/MiguelFAraujo/inteligencia-do-topo-v2) | Full-stack platform featuring Go Clean Architecture backend, Next.js frontend, and shared domain packages. | Go 1.23 · Next.js · Tailwind |
 
-## Engineering principles
+---
 
-- Prefer small, observable and reversible changes.
-- Measure behavior instead of relying on assumptions.
-- Keep credentials and user data out of the server whenever the product allows it.
-- Make failure modes explicit: timeouts, quotas, retries, fallbacks and human approval.
-- Document decisions so another engineer can reproduce and maintain the system.
+## 🧰 Technical Toolbox
 
-## Learning and teaching
+- **Languages:** Go · Python · TypeScript · SQL · C/C++ · Bash / Shell
+- **Backend & APIs:** REST · gRPC · Protobuf · WebSockets · FastHTTP / Gin · FastAPI
+- **Data & Storage:** PostgreSQL · SQLite / FTS5 · Redis · MariaDB
+- **AI & Agents:** MCP (Model Context Protocol) · Non-autoregressive decision models · RAG · Local Inference · Multi-agent bridges
+- **DevOps & Platform:** Linux / Debian · Docker & Compose · systemd · Tailscale · Prometheus · Grafana · Git / GitHub Actions
 
-I create hands-on material around Python/Django backends, Go services, APIs, Linux operations, AI agents and software architecture. The public work and experiments are collected at [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br).
+---
 
-## Let’s connect
+## 🏛️ Engineering Principles
 
-- Website: [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
-- LinkedIn: [linkedin.com/in/miguel-de-araujo](https://www.linkedin.com/in/miguel-de-araujo/)
-- GitHub: [@MiguelFAraujo](https://github.com/MiguelFAraujo)
-- Email: [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
+1. **Explicit Failure Modes:** Design systems with timeouts, quotas, retries, fallbacks, and observable state.
+2. **Local-First & Data Privacy:** Keep user data and credentials strictly isolated and self-contained.
+3. **Low-Latency Decision Filtering:** Use non-autoregressive classifiers and structured filters before delegating to heavyweight LLMs.
+4. **Reproducible & Observable:** Maintain clean systemd units, deterministic configurations, and structured logs.
 
-Português (Brasil) · Remote-friendly · Open to technical collaboration
+---
+
+## 📬 Contact & Links
+
+- **Lab & Hub:** [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
+- **Email:** [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
+- **GitHub:** [@MiguelFAraujo](https://github.com/MiguelFAraujo)
+
+*Português (Brasil) / English · Open for technical collaboration, backend engineering, and distributed systems architecture.*
