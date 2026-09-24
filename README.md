@@ -23,12 +23,12 @@ I build resilient backend systems, autonomous agentic workflows, and privacy-fir
 
 | Project | Description | Stack |
 |---|---|---|
+| [Laya Ecosystem](https://github.com/MiguelFAraujo/laya-ecosystem) | Production utilities, supervisors, lossless context compactors, and fast UI deciders for the Laya & Jev System-1 decision engines. | Python · System 1 · ModernBERT |
 | [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | Zero-dependency health monitor for OpenAI-compatible model gateways with outage detection and automated alerting. | Go · Python · REST |
 | [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | Selective, rate-limited, and auditable Telegram agent with SQLite FTS5 persistence and model routing. | Go · SQLite · Telegram API |
 | [Antigravity Account Switcher](https://github.com/MiguelFAraujo/antigravity-account-switcher) | Multi-account pool supervisor, quota tracking, and automatic HTTP 429 failover for developer agents. | Go · WebSockets · HTTP |
 | [LabPulse Widget](https://github.com/MiguelFAraujo/idt-kotlin-widget) | Autonomous self-hosted service monitor featuring animated dashboards, consolidated alerting, and desktop widget. | Kotlin · Compose · System APIs |
 | [Lab Blueprint](https://github.com/MiguelFAraujo/lab-blueprint) | Open-source homelab reference architecture: Docker orchestration, Tailscale mesh, local AI inference, and autonomous daemons. | Linux · Docker · Systemd |
-| [Inteligência do Topo v2](https://github.com/MiguelFAraujo/inteligencia-do-topo-v2) | Full-stack platform featuring Go Clean Architecture backend, Next.js frontend, and shared domain packages. | Go 1.23 · Next.js · Tailwind |
 
 ---
 
