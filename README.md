@@ -1,60 +1,40 @@
 # Miguel Ferreira de Araújo
 
-### Software Engineer · Backend Systems · AI Infrastructure · Homelab & Open Source
+### Software developer · Backend · Applied AI · Self-hosted systems
 
-I build resilient backend systems, autonomous agentic workflows, and privacy-first developer tooling. My focus is on robust system architecture, low-latency decision pipelines, Linux daemons, and self-hosted infrastructure.
+I build open-source tools for backend services, automation, AI routing, and self-hosted infrastructure. My public projects focus on practical behavior: clear limits, observable decisions, and workflows that people can inspect and run themselves.
 
-[![Website](https://img.shields.io/badge/Website-inteligenciadotopo.com.br-163b35?style=flat-square)](https://inteligenciadotopo.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-MiguelFAraujo-24292e?style=flat-square&logo=github)](https://github.com/MiguelFAraujo)
-[![Email](https://img.shields.io/badge/Email-miguel%40inteligenciadotopo.com.br-c45b3c?style=flat-square)](mailto:miguel@inteligenciadotopo.com.br)
+[Website](https://inteligenciadotopo.com.br) · [LinkedIn](https://www.linkedin.com/in/miguel-de-araujo/) · [Email](mailto:miguel@inteligenciadotopo.com.br)
 
----
+## Projects
 
-## 🛠️ What I Build
-
-- **High-Throughput Backend Services:** Scalable, reliable services and APIs built with Go, Python, and TypeScript.
-- **AI Infrastructure & Decision Engines:** AI gateways, multi-provider fallbacks, non-autoregressive "System 1" decision routing, and MCP servers.
-- **Autonomous Agents & Orchestration:** Telegram/WhatsApp bots with rate limits, cognitive filters, audit trails, and human-in-the-loop controls.
-- **Self-Hosted Homelab Infrastructure:** Linux, systemd daemons, Tailscale mesh networking, Docker containers, and Prometheus/Grafana observability.
-
----
-
-## 🚀 Featured Open Source Projects
-
-| Project | Description | Stack |
+| Project | What it does | Main technologies |
 |---|---|---|
-| [Laya Ecosystem](https://github.com/MiguelFAraujo/laya-ecosystem) | Production utilities, supervisors, lossless context compactors, and fast UI deciders for the Laya & Jev System-1 decision engines. | Python · System 1 · ModernBERT |
-| [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | Zero-dependency health monitor for OpenAI-compatible model gateways with outage detection and automated alerting. | Go · Python · REST |
-| [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | Selective, rate-limited, and auditable Telegram agent with SQLite FTS5 persistence and model routing. | Go · SQLite · Telegram API |
-| [Antigravity Account Switcher](https://github.com/MiguelFAraujo/antigravity-account-switcher) | Multi-account pool supervisor, quota tracking, and automatic HTTP 429 failover for developer agents. | Go · WebSockets · HTTP |
-| [LabPulse Widget](https://github.com/MiguelFAraujo/idt-kotlin-widget) | Autonomous self-hosted service monitor featuring animated dashboards, consolidated alerting, and desktop widget. | Kotlin · Compose · System APIs |
-| [Lab Blueprint](https://github.com/MiguelFAraujo/lab-blueprint) | Open-source homelab reference architecture: Docker orchestration, Tailscale mesh, local AI inference, and autonomous daemons. | Linux · Docker · Systemd |
+| [Laya Ecosystem](https://github.com/MiguelFAraujo/laya-ecosystem) | Fast decision utilities, agent supervision, context compaction, and search for local AI workflows. | Python · Laya/Jev |
+| [LabPulse](https://github.com/MiguelFAraujo/idt-kotlin-widget) | A desktop widget and dashboard for monitoring self-hosted services. | Kotlin · Compose |
+| [OmniRoute Resilience](https://github.com/MiguelFAraujo/omniroute-resilience) | A lightweight health monitor for OpenAI-compatible model gateways, with transition-based alerts. | Python · HTTP · Telegram |
+| [Telebot Cognitive](https://github.com/MiguelFAraujo/telebot-cognitive) | A selective Telegram agent with rate limits, approval mode, and an SQLite audit trail. | Python · SQLite · Telegram |
+| [Lab Blueprint](https://github.com/MiguelFAraujo/lab-blueprint) | An open reference for a small self-hosted lab using Docker, Tailscale, and local AI. | Linux · Docker · Shell |
 
----
+## Areas I work in
 
-## 🧰 Technical Toolbox
+- Backend development and API integrations
+- Local AI gateways, model health checks, and decision tooling
+- Telegram automation with rate limits, audit logs, and human approval
+- Linux services, Docker, systemd, Tailscale, and observability
+- SQLite and FTS5 for local-first persistence and search
 
-- **Languages:** Go · Python · TypeScript · SQL · C/C++ · Bash / Shell
-- **Backend & APIs:** REST · gRPC · Protobuf · WebSockets · FastHTTP / Gin · FastAPI
-- **Data & Storage:** PostgreSQL · SQLite / FTS5 · Redis · MariaDB
-- **AI & Agents:** MCP (Model Context Protocol) · Non-autoregressive decision models · RAG · Local Inference · Multi-agent bridges
-- **DevOps & Platform:** Linux / Debian · Docker & Compose · systemd · Tailscale · Prometheus · Grafana · Git / GitHub Actions
+## Engineering principles
 
----
+- Make failure states visible and distinguish them from intentional deferrals.
+- Keep user data and credentials local where practical.
+- Bound automated actions with explicit limits and human approval for risky changes.
+- Prefer small, reproducible tools with evidence that can be inspected.
 
-## 🏛️ Engineering Principles
+## Contact
 
-1. **Explicit Failure Modes:** Design systems with timeouts, quotas, retries, fallbacks, and observable state.
-2. **Local-First & Data Privacy:** Keep user data and credentials strictly isolated and self-contained.
-3. **Low-Latency Decision Filtering:** Use non-autoregressive classifiers and structured filters before delegating to heavyweight LLMs.
-4. **Reproducible & Observable:** Maintain clean systemd units, deterministic configurations, and structured logs.
+- Website: [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
+- LinkedIn: [miguel-de-araujo](https://www.linkedin.com/in/miguel-de-araujo/)
+- Email: [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
 
----
-
-## 📬 Contact & Links
-
-- **Lab & Hub:** [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
-- **Email:** [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
-- **GitHub:** [@MiguelFAraujo](https://github.com/MiguelFAraujo)
-
-*Português (Brasil) / English · Open for technical collaboration, backend engineering, and distributed systems architecture.*
+*Português (Brasil) / English · Open to technical collaboration.*
