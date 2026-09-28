@@ -4,7 +4,7 @@
 
 I build open-source tools for backend services, automation, AI routing, and self-hosted infrastructure. My public projects focus on practical behavior: clear limits, observable decisions, and workflows that people can inspect and run themselves.
 
-[Website](https://inteligenciadotopo.com.br) · [LinkedIn](https://www.linkedin.com/in/miguel-de-araujo/) · [Email](mailto:miguel@inteligenciadotopo.com.br)
+[Website](https://inteligenciadotopo.com.br) · [LinkedIn](https://www.linkedin.com/in/miguel-de-araujo/) · [Email](mailto:nigelkps1@gmail.com)
 
 ## Projects
 
@@ -35,6 +35,6 @@ I build open-source tools for backend services, automation, AI routing, and self
 
 - Website: [inteligenciadotopo.com.br](https://inteligenciadotopo.com.br)
 - LinkedIn: [miguel-de-araujo](https://www.linkedin.com/in/miguel-de-araujo/)
-- Email: [miguel@inteligenciadotopo.com.br](mailto:miguel@inteligenciadotopo.com.br)
+- Email: [nigelkps1@gmail.com](mailto:nigelkps1@gmail.com)
 
 *Português (Brasil) / English · Open to technical collaboration.*
